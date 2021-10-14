@@ -1,0 +1,6 @@
+//constantes  estados
+
+//reducer
+
+
+//acciones
