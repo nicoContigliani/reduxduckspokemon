@@ -17,7 +17,6 @@ const Pokemones = () => {
                 Get Pokemons
             </button>
 
-
             <ul>
                 {
                     pokemones.map(item => (
