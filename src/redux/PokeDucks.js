@@ -21,8 +21,6 @@ export default function pokeReducer(state = dataInicial, action) {
     }
 }
 
-
-
 //acciones
 export const obtenerPokemonesAccion = () => async (dispatch, getState) => {
     try {
