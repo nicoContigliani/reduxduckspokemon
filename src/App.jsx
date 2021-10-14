@@ -1,10 +1,11 @@
 import react from "react";
+import Pokemones from "./componentes/Pokemones";
 
 
 function App() {
   return (
     <div >
-      hola
+      <Pokemones />
     </div>
   );
 }
